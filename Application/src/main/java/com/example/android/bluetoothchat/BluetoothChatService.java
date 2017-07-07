@@ -25,8 +25,10 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
 
+import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.io.OutputStream;
 import java.util.UUID;
 
@@ -462,39 +464,18 @@ public class BluetoothChatService {
         public void run() {
             // Keep listening to the InputStream while connected
             while (mState == STATE_CONNECTED) {
-                byte[] buffer = new byte[32];
-                byte[] mmBuffer = new byte[1024];
-                int bytes;
-                boolean stop = false;
-                boolean send = false;
-                int mmBytes = 0;//posição do ultimo elemento de mmBuffer, inicia em zero
+                byte[] buffer = new byte[1024];
+                String s;
                 try {
-                    do {
-                        // Read from the InputStream
-                        bytes = mmInStream.read(buffer);
-                        // inspect each read byte
-                        for (byte aBuffer : buffer) {
-                            // inspect each byte if equals to '10'
-                            if (aBuffer == 10) {
-                                stop = true;
-                            } else {
-                                //add the stream read to the mmBuffer to display
-                                if (aBuffer != 0 && !stop) {
-                                    mmBuffer[mmBytes] = aBuffer;
-                                    mmBytes++;
-                                } else if (stop && !send) {
-                                    mHandler.obtainMessage(Constants.MESSAGE_READ, mmBytes, -1, mmBuffer)
-                                            .sendToTarget();
-                                    send = true;
-                                    //tratar os bytes restantes para serem enviados na próxima mensagem
-                                }
-                            }
-                        }
-                        //test if it should stop, and if don't, loop
-                    } while (!stop);
-                    // Send the obtained bytes to the UI Activity
-                    mHandler.obtainMessage(Constants.MESSAGE_READ, bytes, -1, mmBuffer)
+                    InputStreamReader mInReader = new InputStreamReader(mmInStream);
+                    BufferedReader bf = new BufferedReader(mInReader);
+                    s = bf.readLine();
+                    for (int i = 0; i < s.length(); i++) {
+                        buffer[i] = ((byte) s.charAt(i));
+                    }
+                    mHandler.obtainMessage(Constants.MESSAGE_READ, s.length(), -1, buffer)
                             .sendToTarget();
+                    // Send the obtained bytes to the UI Activity
                 } catch (IOException e) {
                     connectionLost();
                     break;
