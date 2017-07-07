@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\AndroidStudioProjects\\Dev_Bluetooth\\Ex12_Proj_Bluetooth\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\DEV02\\.android\\build-cache\\86cc1c626246ac6334a15ba25382a3be1d8b8d52\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Dev_Bluetooth\\Ex12_Proj_Bluetooth\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\DEV02\\.android\\build-cache\\86cc1c626246ac6334a15ba25382a3be1d8b8d52\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Dev_Bluetooth\\Ex12_Proj_Bluetooth\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\DEV02\\.android\\build-cache\\86cc1c626246ac6334a15ba25382a3be1d8b8d52\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Dev_Bluetooth\\Ex12_Proj_Bluetooth\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\DEV02\\.android\\build-cache\\86cc1c626246ac6334a15ba25382a3be1d8b8d52\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Dev_Bluetooth\\Ex12_Proj_Bluetooth\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\DEV02\\.android\\build-cache\\86cc1c626246ac6334a15ba25382a3be1d8b8d52\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Dev_Bluetooth\\Ex12_Proj_Bluetooth\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\DEV02\\.android\\build-cache\\86cc1c626246ac6334a15ba25382a3be1d8b8d52\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    }
+]

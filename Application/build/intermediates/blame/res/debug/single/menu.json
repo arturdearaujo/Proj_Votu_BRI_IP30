@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\AndroidStudioProjects\\Dev_Bluetooth\\Ex12_Proj_Bluetooth\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\AndroidStudioProjects\\Dev_Bluetooth\\Ex12_Proj_Bluetooth\\android-BluetoothChat-master\\Application\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Dev_Bluetooth\\Ex12_Proj_Bluetooth\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\bluetooth_chat.xml",
+        "source": "C:\\AndroidStudioProjects\\Dev_Bluetooth\\Ex12_Proj_Bluetooth\\android-BluetoothChat-master\\Application\\src\\main\\res\\menu\\bluetooth_chat.xml"
+    }
+]

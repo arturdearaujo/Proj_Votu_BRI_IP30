@@ -1,0 +1,109 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\AndroidStudioProjects\Dev_Bluetooth\Ex12_Proj_Bluetooth\android-BluetoothChat-master\Application\src\main\AndroidManifest.xml:18:1-53:12
+	package
+		ADDED from C:\AndroidStudioProjects\Dev_Bluetooth\Ex12_Proj_Bluetooth\android-BluetoothChat-master\Application\src\main\AndroidManifest.xml:19:5-48
+	android:versionName
+		ADDED from C:\AndroidStudioProjects\Dev_Bluetooth\Ex12_Proj_Bluetooth\android-BluetoothChat-master\Application\src\main\AndroidManifest.xml:22:5-30
+		INJECTED from C:\AndroidStudioProjects\Dev_Bluetooth\Ex12_Proj_Bluetooth\android-BluetoothChat-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidStudioProjects\Dev_Bluetooth\Ex12_Proj_Bluetooth\android-BluetoothChat-master\Application\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\AndroidStudioProjects\Dev_Bluetooth\Ex12_Proj_Bluetooth\android-BluetoothChat-master\Application\src\main\AndroidManifest.xml:21:5-28
+		INJECTED from C:\AndroidStudioProjects\Dev_Bluetooth\Ex12_Proj_Bluetooth\android-BluetoothChat-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidStudioProjects\Dev_Bluetooth\Ex12_Proj_Bluetooth\android-BluetoothChat-master\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\AndroidStudioProjects\Dev_Bluetooth\Ex12_Proj_Bluetooth\android-BluetoothChat-master\Application\src\main\AndroidManifest.xml:20:5-63
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\AndroidStudioProjects\Dev_Bluetooth\Ex12_Proj_Bluetooth\android-BluetoothChat-master\Application\src\main\AndroidManifest.xml:26:5-73
+	android:name
+		ADDED from C:\AndroidStudioProjects\Dev_Bluetooth\Ex12_Proj_Bluetooth\android-BluetoothChat-master\Application\src\main\AndroidManifest.xml:26:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\AndroidStudioProjects\Dev_Bluetooth\Ex12_Proj_Bluetooth\android-BluetoothChat-master\Application\src\main\AndroidManifest.xml:27:5-67
+	android:name
+		ADDED from C:\AndroidStudioProjects\Dev_Bluetooth\Ex12_Proj_Bluetooth\android-BluetoothChat-master\Application\src\main\AndroidManifest.xml:27:22-65
+application
+ADDED from C:\AndroidStudioProjects\Dev_Bluetooth\Ex12_Proj_Bluetooth\android-BluetoothChat-master\Application\src\main\AndroidManifest.xml:29:5-51:19
+MERGED from [com.android.support:gridlayout-v7:25.3.1] C:\Users\DEV02\.android\build-cache\d3441f326e5a162fdece0630dae69b4a3bc9b680\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\DEV02\.android\build-cache\c0339dd31d169a41a3438b0d28a141f9e3fbd5c1\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\DEV02\.android\build-cache\86cc1c626246ac6334a15ba25382a3be1d8b8d52\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\DEV02\.android\build-cache\bdf10e69a4fce230d1f5bafcdeded3ea8dc1f1a7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\DEV02\.android\build-cache\5138af8033fdef26b3bf29919c60e8e034854a80\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\DEV02\.android\build-cache\6480d801d052876c66a310cb1d7e9fe67cb5b4ab\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\DEV02\.android\build-cache\2560566f1a1514fd389c85db3c128298fa792683\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\DEV02\.android\build-cache\906f11cade15401875a8f64391b0306b811c0fc3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\DEV02\.android\build-cache\86db854113adc7766f51cca997fe2d3983b2acee\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\DEV02\.android\build-cache\ead30266b5ba598e5548b4c7004a6884c49a80b5\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\DEV02\.android\build-cache\98a746769ee759d2f29abcacfbecb5e8238709ec\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\AndroidStudioProjects\Dev_Bluetooth\Ex12_Proj_Bluetooth\android-BluetoothChat-master\Application\src\main\AndroidManifest.xml:32:9-41
+	android:allowBackup
+		ADDED from C:\AndroidStudioProjects\Dev_Bluetooth\Ex12_Proj_Bluetooth\android-BluetoothChat-master\Application\src\main\AndroidManifest.xml:30:9-35
+	android:icon
+		ADDED from C:\AndroidStudioProjects\Dev_Bluetooth\Ex12_Proj_Bluetooth\android-BluetoothChat-master\Application\src\main\AndroidManifest.xml:31:9-45
+	android:theme
+		ADDED from C:\AndroidStudioProjects\Dev_Bluetooth\Ex12_Proj_Bluetooth\android-BluetoothChat-master\Application\src\main\AndroidManifest.xml:33:9-40
+activity#com.example.android.bluetoothchat.MainActivity
+ADDED from C:\AndroidStudioProjects\Dev_Bluetooth\Ex12_Proj_Bluetooth\android-BluetoothChat-master\Application\src\main\AndroidManifest.xml:35:9-43:20
+	android:label
+		ADDED from C:\AndroidStudioProjects\Dev_Bluetooth\Ex12_Proj_Bluetooth\android-BluetoothChat-master\Application\src\main\AndroidManifest.xml:38:13-45
+	android:configChanges
+		ADDED from C:\AndroidStudioProjects\Dev_Bluetooth\Ex12_Proj_Bluetooth\android-BluetoothChat-master\Application\src\main\AndroidManifest.xml:37:13-63
+	android:name
+		ADDED from C:\AndroidStudioProjects\Dev_Bluetooth\Ex12_Proj_Bluetooth\android-BluetoothChat-master\Application\src\main\AndroidManifest.xml:36:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\AndroidStudioProjects\Dev_Bluetooth\Ex12_Proj_Bluetooth\android-BluetoothChat-master\Application\src\main\AndroidManifest.xml:39:13-42:29
+action#android.intent.action.MAIN
+ADDED from C:\AndroidStudioProjects\Dev_Bluetooth\Ex12_Proj_Bluetooth\android-BluetoothChat-master\Application\src\main\AndroidManifest.xml:40:17-68
+	android:name
+		ADDED from C:\AndroidStudioProjects\Dev_Bluetooth\Ex12_Proj_Bluetooth\android-BluetoothChat-master\Application\src\main\AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\AndroidStudioProjects\Dev_Bluetooth\Ex12_Proj_Bluetooth\android-BluetoothChat-master\Application\src\main\AndroidManifest.xml:41:17-76
+	android:name
+		ADDED from C:\AndroidStudioProjects\Dev_Bluetooth\Ex12_Proj_Bluetooth\android-BluetoothChat-master\Application\src\main\AndroidManifest.xml:41:27-74
+activity#com.example.android.bluetoothchat.DeviceListActivity
+ADDED from C:\AndroidStudioProjects\Dev_Bluetooth\Ex12_Proj_Bluetooth\android-BluetoothChat-master\Application\src\main\AndroidManifest.xml:45:9-49:63
+	android:label
+		ADDED from C:\AndroidStudioProjects\Dev_Bluetooth\Ex12_Proj_Bluetooth\android-BluetoothChat-master\Application\src\main\AndroidManifest.xml:48:13-50
+	android:configChanges
+		ADDED from C:\AndroidStudioProjects\Dev_Bluetooth\Ex12_Proj_Bluetooth\android-BluetoothChat-master\Application\src\main\AndroidManifest.xml:47:13-63
+	android:theme
+		ADDED from C:\AndroidStudioProjects\Dev_Bluetooth\Ex12_Proj_Bluetooth\android-BluetoothChat-master\Application\src\main\AndroidManifest.xml:49:13-61
+	android:name
+		ADDED from C:\AndroidStudioProjects\Dev_Bluetooth\Ex12_Proj_Bluetooth\android-BluetoothChat-master\Application\src\main\AndroidManifest.xml:46:13-47
+uses-sdk
+INJECTED from C:\AndroidStudioProjects\Dev_Bluetooth\Ex12_Proj_Bluetooth\android-BluetoothChat-master\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:gridlayout-v7:25.3.1] C:\Users\DEV02\.android\build-cache\d3441f326e5a162fdece0630dae69b4a3bc9b680\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\DEV02\.android\build-cache\c0339dd31d169a41a3438b0d28a141f9e3fbd5c1\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\DEV02\.android\build-cache\86cc1c626246ac6334a15ba25382a3be1d8b8d52\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\DEV02\.android\build-cache\bdf10e69a4fce230d1f5bafcdeded3ea8dc1f1a7\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\DEV02\.android\build-cache\5138af8033fdef26b3bf29919c60e8e034854a80\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\DEV02\.android\build-cache\6480d801d052876c66a310cb1d7e9fe67cb5b4ab\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\DEV02\.android\build-cache\2560566f1a1514fd389c85db3c128298fa792683\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\DEV02\.android\build-cache\906f11cade15401875a8f64391b0306b811c0fc3\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\DEV02\.android\build-cache\86db854113adc7766f51cca997fe2d3983b2acee\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\DEV02\.android\build-cache\ead30266b5ba598e5548b4c7004a6884c49a80b5\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\DEV02\.android\build-cache\98a746769ee759d2f29abcacfbecb5e8238709ec\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\DEV02\.android\build-cache\86cc1c626246ac6334a15ba25382a3be1d8b8d52\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\AndroidStudioProjects\Dev_Bluetooth\Ex12_Proj_Bluetooth\android-BluetoothChat-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidStudioProjects\Dev_Bluetooth\Ex12_Proj_Bluetooth\android-BluetoothChat-master\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\AndroidStudioProjects\Dev_Bluetooth\Ex12_Proj_Bluetooth\android-BluetoothChat-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidStudioProjects\Dev_Bluetooth\Ex12_Proj_Bluetooth\android-BluetoothChat-master\Application\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:gridlayout-v7:25.3.1] C:\Users\DEV02\.android\build-cache\d3441f326e5a162fdece0630dae69b4a3bc9b680\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\DEV02\.android\build-cache\c0339dd31d169a41a3438b0d28a141f9e3fbd5c1\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\DEV02\.android\build-cache\86cc1c626246ac6334a15ba25382a3be1d8b8d52\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\DEV02\.android\build-cache\bdf10e69a4fce230d1f5bafcdeded3ea8dc1f1a7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\DEV02\.android\build-cache\5138af8033fdef26b3bf29919c60e8e034854a80\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\DEV02\.android\build-cache\6480d801d052876c66a310cb1d7e9fe67cb5b4ab\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\DEV02\.android\build-cache\2560566f1a1514fd389c85db3c128298fa792683\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\DEV02\.android\build-cache\906f11cade15401875a8f64391b0306b811c0fc3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\DEV02\.android\build-cache\86db854113adc7766f51cca997fe2d3983b2acee\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\DEV02\.android\build-cache\ead30266b5ba598e5548b4c7004a6884c49a80b5\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\DEV02\.android\build-cache\98a746769ee759d2f29abcacfbecb5e8238709ec\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:gridlayout-v7:25.3.1] C:\Users\DEV02\.android\build-cache\d3441f326e5a162fdece0630dae69b4a3bc9b680\output\AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:gridlayout-v7:25.3.1] C:\Users\DEV02\.android\build-cache\d3441f326e5a162fdece0630dae69b4a3bc9b680\output\AndroidManifest.xml:23:9-47

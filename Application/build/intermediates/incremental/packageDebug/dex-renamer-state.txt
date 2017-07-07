@@ -1,0 +1,7 @@
+#Thu Jun 29 18:13:45 GFT 2017
+base.0=C\:\\AndroidStudioProjects\\Dev_Bluetooth\\Ex12_Proj_Bluetooth\\android-BluetoothChat-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d89868379a50a872318a44fee9c97b1307e57530
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\AndroidStudioProjects\\Dev_Bluetooth\\Ex12_Proj_Bluetooth\\android-BluetoothChat-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6998236ddc9a141a5cbc63856c545b2742167e66\\classes.dex
+base.1=C\:\\AndroidStudioProjects\\Dev_Bluetooth\\Ex12_Proj_Bluetooth\\android-BluetoothChat-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6998236ddc9a141a5cbc63856c545b2742167e66
+file.0=C\:\\AndroidStudioProjects\\Dev_Bluetooth\\Ex12_Proj_Bluetooth\\android-BluetoothChat-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d89868379a50a872318a44fee9c97b1307e57530\\classes.dex
