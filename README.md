@@ -2,17 +2,17 @@
 
 This app connects over bluetooth to RFID reader devices, scan tags and export then to cloud
 
-#Pre-requisites
+# Pre-requisites
 
 Android SDK v26
 Android Build Tools v26.0.1
 Android Support Repository v26.2.0
 
-#Getting Started
+# Getting Started
 
 This sample uses the Gradle build system. To build this project, use the "gradlew build" command or use "Import Project" in Android Studio.
 
-#License
+# License
 
 Copyright 2015 The Android Open Source Project, Inc.
 
